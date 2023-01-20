@@ -1,10 +1,5 @@
 #!/usr/bin/python
 # -*- coding: UTF-8 -*-
-"""
-@Author: Mingwei Zhang
-@File:RS_score.py
-@Time:2022/03/26
-"""
 import torch
 from torch.nn import functional as F
 import torch.utils.data
